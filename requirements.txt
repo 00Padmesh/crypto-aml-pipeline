@@ -1,0 +1,17 @@
+# Web Framework & API
+fastapi>=0.110.0
+uvicorn>=0.28.0
+
+# Async Message Streaming
+aiokafka>=0.10.0
+redis>=5.0.1
+
+# Graph Engine & ML
+networkx>=3.2.1
+xgboost>=2.0.3
+numpy>=1.26.4
+pandas>=2.2.1
+
+# Interactive Visualizations & Dashboard
+streamlit>=1.31.1
+matplotlib>=3.8.3
